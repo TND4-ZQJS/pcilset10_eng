@@ -1,1 +1,553 @@
-
+[
+  {
+    "questionNumber": 1,
+    "question": "To contest the validity of a life insurance contract, an insurer must proof that there is a _____.",
+    "options": {
+      "A": "false information",
+      "B": "inaccurate underwriting information",
+      "C": "erroneous statement of facts",
+      "D": "concealment of material facts"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 2,
+    "question": "The law states that “where a contract of life insurance has been in effect for a period of more than two (2) years during the lifetime of the insured, such a contract shall not be avoided by the life insurer on the ground that a statement made or omitted to be made in the proposal for insurance or in a report of a doctor, referee or any other person or in a document leading to the issue of the life policy was inaccurate or false or misleading unless the insurer shows that the statement was on a material matter or suppressed a material fact and that it was fraudulently made or omitted to be made by the policy owner or the insured”. This statement refers to _____.",
+    "options": {
+      "A": "The proviso",
+      "B": "suicide clause",
+      "C": "operative clause",
+      "D": "non-contestability clause"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 3,
+    "question": "Which of the following is NOT a method of distributing divisible surplus?",
+    "options": {
+      "A": "Non-par maturity claim",
+      "B": "Cash bonus",
+      "C": "Guarantee bonus",
+      "D": "Interim bonus"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 4,
+    "question": "When the assets of the insurance fund exceed the liabilities, there is ______.",
+    "options": {
+      "A": "Liability",
+      "B": "Surplus",
+      "C": "Assets",
+      "D": "The market value"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 5,
+    "question": "Where a contract of life insurance has been in effect for a period of more than two years during the lifetime of the insured, such a contract shall not be avoided by the life insurer on the following grounds EXCEPT for ______.",
+    "options": {
+      "A": "a statement relating to a pre-existing health condition not disclosed",
+      "B": "a statement omitted in the medical report submitted with the proposal form, leading to an inaccuracy in the policy issued",
+      "C": "a careless misrepresentation regarding age made in the proposal form",
+      "D": "a statement omitted in the proposal form leading to an inaccuracy on the policy issued"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 6,
+    "question": "A life policy shall remain in force for the full sum insured in the event of an election for conversion to paid up life policy until _____.",
+    "options": {
+      "A": "the date on which the policy owner surrenders his policy",
+      "B": "the date on which the next premium on the new policy is due",
+      "C": "the date on which the next premium on the original policy is due",
+      "D": "the date on which the policy owner retires"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 7,
+    "question": "What do policyholders stand to lose if they surrender a life policy?",
+    "options": {
+      "A": "only the death benefit cover",
+      "B": "three quarters of all accumulated savings and earnings",
+      "C": "half the cash value after deduction for surcharge",
+      "D": "all benefits including life insurance protection"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 8,
+    "question": "The life insurer will refund the over payment to the insured ______.",
+    "options": {
+      "A": "if the insurer makes more profit more than expected",
+      "B": "if the insured can prove that the insurer is making more profit than declared",
+      "C": "if the real age of insured is less than that stated in the policy",
+      "D": "if the insured can prove that he is healthier now than before"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 9,
+    "question": "With additional premium, a hospital and surgical insurance (HSI) policy can also be extended to the following benefits, EXCEPT ______.",
+    "options": {
+      "A": "organ transplant",
+      "B": "accidental death benefit",
+      "C": "cosmetic surgery",
+      "D": "insured child’s daily guardian allowance"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 10,
+    "question": "In relation to hospital and surgical insurance policies which will not be renewed, or for which the renewal is to be deferred, notify the policy owner of its decision to decline or defer renewal, together with reasons where appropriate, ______.",
+    "options": {
+      "A": "At least 60 days after the policy anniversary date",
+      "B": "At least 30 days before expiry of the policy",
+      "C": "At least 60 days upon expiry of the policy",
+      "D": "At least 30 days before the policy anniversary date"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 11,
+    "question": "Which of the following is not a benefit limitation to medical and health insurance coverage?",
+    "options": {
+      "A": "Reduction of the amount of benefit payable",
+      "B": "Shortening of the payment period of disability income",
+      "C": "Imposition of a larger deductible on medical expenses",
+      "D": "Option to reduce coverage at the time of a claim"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 12,
+    "question": "If the group policy owner has no insurable interest in the persons insured, the insurer is required to provide details of such coverage, rights and obligations to each of the persons insured.",
+    "options": {
+      "A": "utmost good faith",
+      "B": "insurable interest",
+      "C": "contractual capacity",
+      "D": "personal interest"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 13,
+    "question": "Medical and health insurance (MHI) in Malaysia is written by both life and general insurance companies, as a _______.",
+    "options": {
+      "A": "stand-alone policy",
+      "B": "rider attached to a life policy",
+      "C": "supplementary cover",
+      "D": "health benefit package"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 14,
+    "question": "Which of the following is an important underwriting factor in deciding whether to accept a medical and health insurance proposal?",
+    "options": {
+      "A": "Age",
+      "B": "Hobbies",
+      "C": "Marital status",
+      "D": "Education level"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 15,
+    "question": "_______ mainly cater for healthcare benefits provided by employers, which comprise an essential component of an employee’s remuneration package.",
+    "options": {
+      "A": "group personal accidental insurance policy",
+      "B": "group term life insurance policy",
+      "C": "group savings scheme for retirement",
+      "D": "group medical and health insurance policy"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 16,
+    "question": "One of remedies to the principal if an agent fails in his duties in misappropriation of monies received, the principal may rescind any contract made through the agent and ________ commission.",
+    "options": {
+      "A": "Refuse",
+      "B": "increase",
+      "C": "pay",
+      "D": "reduce"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 17,
+    "question": "An agent must carry out all lawful instructions. Where an insurance intermediary has no instructions on a particular point, he may follow ______ where such practice is clear.",
+    "options": {
+      "A": "market usage",
+      "B": "legal usage",
+      "C": "customary practice",
+      "D": "market agreement"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 18,
+    "question": "_______ comprising the list of prohibited business conduct would apply equally to insurers and insurance intermediaries including agents.",
+    "options": {
+      "A": "Schedule 10 of the Financial Services Act 2013",
+      "B": "Schedule 11 of the Financial Services Act 2013",
+      "C": "Schedule 7 of the Financial Services Act 2013",
+      "D": "Schedule 8 of the Financial Services Act 2013"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 19,
+    "question": "Policy terms and conditions exist so that ______.",
+    "options": {
+      "A": "the insured to buy back excluded perils by way of endorsement",
+      "B": "the parties to the contract understand their respective duties, rights and obligations",
+      "C": "the insured understands the nature of the policy cover and its limitations",
+      "D": "to exclude fundamental risks such as war and terrorism"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 20,
+    "question": "_______ for insurance makes an offer by submitting a completed and signed proposal form directly to an insurer or through an insurance agent.",
+    "options": {
+      "A": "agent",
+      "B": "finance company",
+      "C": "proposer",
+      "D": "broker"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 21,
+    "question": "An insurance contract would be deemed _______ if no ‘consensus ad idem’ or there was a fundamental mistake or disagreement from the start.",
+    "options": {
+      "A": "unenforceable",
+      "B": "void",
+      "C": "voidable",
+      "D": "ineffective"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 22,
+    "question": "Which of the following is not an essential factors for the formation of a valid contract?",
+    "options": {
+      "A": "Nomination of intermediary",
+      "B": "Consideration",
+      "C": "Offer and Acceptance",
+      "D": "Capacity to Contract"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 23,
+    "question": "According to Customer Due Diligence under the Anti Money Laundering and Counter Financing of Terrorist compliance guideline, insurance companies must ______",
+    "options": {
+      "A": "verify and be satisfied until the identity of the customer or beneficial owner through reliable documentation when establishing business relationships.",
+      "B": "implement risk management commensurate with the level of money laundering and terrorism financing risks.",
+      "C": "report all cash transactions exceeding RM50,000 to Bank Negara Malaysia.",
+      "D": "submit a report on any suspicious transaction to Bank Negara Malaysia."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 24,
+    "question": "Select one which is NOT covered by the provisions of Pentadbiran Insurance Deposit Malaysia (PIDM).",
+    "options": {
+      "A": "Islamic banks",
+      "B": "Commercial banks",
+      "C": "Reinsurance companies",
+      "D": "Takaful companies"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 25,
+    "question": "Which of the following provides for the regulation and supervision of financial institutions?",
+    "options": {
+      "A": "Central Bank of Malaysia Act 2009",
+      "B": "Companies Act 1965",
+      "C": "Malaysia Deposit Insurance Corporation Act 2005",
+      "D": "Financial Services Act 2013"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 26,
+    "question": "The objective of Takaful and Insurance Benefits Protection System (TIPS) is _______.",
+    "options": {
+      "A": "to protect takaful operations and insurance companies from bankruptcy.",
+      "B": "to protect policy owners against unscrupulous insurance agents and intermediaries.",
+      "C": "to protect policy owners from loss of their eligible benefits in the event that an insurer member fails to pay insurance benefits.",
+      "D": "to protect policy owners from the effects of an economic slump and recession."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 27,
+    "question": "Select the underlying concepts that drive the acceptance of the takaful system in Malaysia.\nI. Piety\nII. Tabarru’\nIII. Protect\nIV. Mutual assistance",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, II, and IV",
+      "C": "I, III, and IV",
+      "D": "II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 28,
+    "question": "When a loss is covered by two or more policies by the same insured, the principle of contribution allows an insurer who has indemnified an insured to call upon other insurers liable for the same loss to ______.",
+    "options": {
+      "A": "an equal proportion of the loss irrespective of the sums insured.",
+      "B": "contribute proportionately to the cost of the indemnity payment.",
+      "C": "an equal proportion of the loss in accordance with the respective sum insured.",
+      "D": "the ratable proportion of the loss in accordance with the respective sum insured."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 29,
+    "question": "Which of the following is not a contract of indemnity?",
+    "options": {
+      "A": "Fire insurance",
+      "B": "Aviation insurance",
+      "C": "All risks insurance",
+      "D": "Life insurance"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 30,
+    "question": "Proximate cause is concerned with how the loss or damage actually occurred and whether it is a direct result of _______.",
+    "options": {
+      "A": "an excluded peril",
+      "B": "an insured peril",
+      "C": "an exceptional peril",
+      "D": "an uninsured peril"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 31,
+    "question": "A breach of good faith on the part of the insured can result in _________.",
+    "options": {
+      "A": "a void contract",
+      "B": "a voidable contract",
+      "C": "an unenforceable contract",
+      "D": "an illegal contract"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 32,
+    "question": "A ______________ policy is not a contract of indemnity.",
+    "options": {
+      "A": "liability",
+      "B": "medical and health",
+      "C": "fire",
+      "D": "personal accident"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 33,
+    "question": "“The active efficient cause that sets in motion a chain of events which brings about a result, without the intervention of any force started and working actively from a new independent source”. This is refer to ______.",
+    "options": {
+      "A": "remote cause",
+      "B": "independent cause",
+      "C": "single cause",
+      "D": "proximate cause"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 34,
+    "question": "In insurance, the transfer of rights and liabilities of the insured to a new insured is referred to as ________.",
+    "options": {
+      "A": "an assignment of policy",
+      "B": "a transfer of interest",
+      "C": "a transfer of policy",
+      "D": "an assignment of policy proceeds"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 35,
+    "question": "Select one which is best described the cost stabilization benefit of insurance.",
+    "options": {
+      "A": "It identifies and controls all risks faced by enterprises.",
+      "B": "It meets the financial consequences of certain risks.",
+      "C": "It reduces the frequency and severity of loss.",
+      "D": "It releases funds for investment in the productive side of enterprises."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 36,
+    "question": "Tabarru’ means ______.",
+    "options": {
+      "A": "the agreement by the participant to hand over as donation, a certain proportion of the takaful contribution, enabling him to fulfil his obligation of mutual help.",
+      "B": "the sincere intention of the group member to help and support the needy.",
+      "C": "an agreement to jointly indemnify the loss or damage that may inflict upon any of the contributors.",
+      "D": "the agreement between the participant and the takaful operator for the purpose of business venture and both parties agree on profit-sharing agreement."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 37,
+    "question": "Insurance is concerned mainly with pure risks and not speculative risks which have an element of financial gain. Which of the following is NOT a pure risk but is insurable?",
+    "options": {
+      "A": "Nuclear testing",
+      "B": "Effects of inflation on the economy",
+      "C": "Typhoon and hurricane",
+      "D": "War and military action."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 38,
+    "question": "Insurance intermediaries refers to ______.",
+    "options": {
+      "A": "real estate agents and property developers.",
+      "B": "trustees and financial institutions",
+      "C": "motor franchise holders and stock brokers.",
+      "D": "insurance brokers, agents and financial advisers."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 39,
+    "question": "What happens if a policy owner lapses a policy and purchases a new one?",
+    "options": {
+      "A": "The new policy may be rejected because the old policy is still active.",
+      "B": "The proposer may opt to transfer the old premium to the new policy.",
+      "C": "The suicidal and incontestability clause will not be disrupted as the proposer is the same person.",
+      "D": "The suicide clause and incontestable clause begin anew in a new policy."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 40,
+    "question": "Choose the correct statement of an intermediary in soliciting business from a prospective policy owner.",
+    "options": {
+      "A": "If there is a conflict of interest between the insurer and the prospect, the intermediary should protect the insurer.",
+      "B": "If it is the duty of the intermediary to always protect the insurer by all means even though it will bring no benefit to the insured.",
+      "C": "An intermediary obligated to conduct business at all times with utmost good faith and integrity.",
+      "D": "It is an important obligation of the intermediary to always protect his own interest first before protecting the interest of the prospect."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 41,
+    "question": "Choose the correct statement.",
+    "options": {
+      "A": "The insurer shall not collect any claim processing fees from the policy owner or the beneficiary.",
+      "B": "The insurer shall allow the agent to collect claim processing fees from the policy owner or the beneficiary.",
+      "C": "The insurer shall not stop the agent from collecting claim processing fees from the policy owner or the beneficiary.",
+      "D": "The insurer may impose a claim processing fee on the policy owner or the beneficiary."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 42,
+    "question": "An Insurer is expected ______.",
+    "options": {
+      "A": "not reject a claim under any circumstances",
+      "B": "delay the claim payment for as long as they wish.",
+      "C": "not unreasonably reject a claim",
+      "D": "not to unreasonably reject a claim"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 43,
+    "question": "Disclosure of Underwriting Information The agent shall ______.",
+    "options": {
+      "A": "encourage the prospect to hide any information that may result in the application being rejected.",
+      "B": "allow the prospect to find a clinic that will not reveal any health problems the medical check-up may reveal.",
+      "C": "always influence the proposer that the answers or statements must be aligned with the company’s requirement.",
+      "D": "avoid influencing the proposer and make it clear that as the answers or statements are the proposer’s own responsibility."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 44,
+    "question": "Policy delivery will strengthen the customer relationship and it helps to _______.",
+    "options": {
+      "A": "sell another policy.",
+      "B": "prevent the client from making a complaint.",
+      "C": "save the client’s money.",
+      "D": "encourage persistency."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 45,
+    "question": "The second step is the selling process is _________.",
+    "options": {
+      "A": "locating the prospective customer.",
+      "B": "the sales presentation",
+      "C": "conducting the sale interviews",
+      "D": "handling objections."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 46,
+    "question": "In the Code of Ethics, an insurance agent should practise the following _______.\nI. To avoid conflict of interest.\nII. To avoid misuse of position.\nIII. To ensure completeness and accuracy of relevant records.\nIV. To prevent misuse of information.",
+    "options": {
+      "A": "I, II, and III",
+      "B": "I, II and IV",
+      "C": "II, III and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 47,
+    "question": "Agents selling investment-linked products should conduct reviews on their client’s investment profile and investment progress periodically – ideally ______.",
+    "options": {
+      "A": "once a year",
+      "B": "once a week",
+      "C": "once every six months",
+      "D": "once a month"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 48,
+    "question": "Which stage in the consumer buying process states that the consumer becomes aware of the threat of risks or a potential opportunity and feels the need for the product to protect him from financial difficulties or to satisfy his needs?",
+    "options": {
+      "A": "information search",
+      "B": "evaluation of alternative policies",
+      "C": "problem recognition",
+      "D": "purchase"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 49,
+    "question": "Guidelines on Investment-linked Business state that the initial offer period (of a new fund) shall not ______.",
+    "options": {
+      "A": "be less than one month",
+      "B": "exceed one month",
+      "C": "exceed two months",
+      "D": "be less than two months."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 50,
+    "question": "Select true statement about equities.",
+    "options": {
+      "A": "Return potentials for equities can be significantly lower, especially during periods of market buoyancy.",
+      "B": "Equity prices can rise against the mainstream when the stock market faces a downtown over an extended period.",
+      "C": "Equity process can be very steady when the stock market faces a downturn over an extended period.",
+      "D": "Return potentials for equities can be significantly higher, especially during periods of market buoyancy"
+    },
+    "answer": ""
+  }
+]
+  
